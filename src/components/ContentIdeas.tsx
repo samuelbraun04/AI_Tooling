@@ -176,7 +176,7 @@ export default function ContentIdeas({ onBack }: ContentIdeasProps) {
           ) : (
             <div className="text-center py-12 text-gray-500">
               <LightBulbIcon className="h-12 w-12 mx-auto mb-4 text-gray-300" />
-              <p>Enter your niche and click 'Generate Viral Ideas' to get started</p>
+              <p>Enter your niche and click Generate Viral Ideas to get started</p>
               <p className="text-sm mt-2">AI will create pattern-interrupt content that stops scrolling</p>
             </div>
           )}
