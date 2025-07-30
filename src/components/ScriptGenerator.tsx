@@ -223,7 +223,7 @@ export default function ScriptGenerator({ onBack }: ScriptGeneratorProps) {
           </div>
           <div className="bg-white p-4 rounded-lg border border-blue-200">
             <div className="font-semibold text-blue-900 mb-2">2. Promise (3-7s)</div>
-            <div className="text-gray-700">Tell them what they'll learn or gain. Set clear expectations.</div>
+            <div className="text-gray-700">Tell them what they&apos;ll learn or gain. Set clear expectations.</div>
           </div>
           <div className="bg-white p-4 rounded-lg border border-blue-200">
             <div className="font-semibold text-blue-900 mb-2">3. Content (7-45s)</div>

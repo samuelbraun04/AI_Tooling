@@ -165,7 +165,7 @@ export default function HashtagGenerator({ onBack }: HashtagGeneratorProps) {
               <li>• Mix high, medium, and low competition tags</li>
               <li>• Use niche-specific and trending hashtags</li>
               <li>• Avoid banned or shadowbanned hashtags</li>
-              <li>• Research competitors' successful tags</li>
+              <li>• Research competitors&apos; successful tags</li>
             </ul>
           </div>
         </div>

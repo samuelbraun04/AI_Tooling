@@ -188,7 +188,7 @@ export default function ContentIdeas({ onBack }: ContentIdeasProps) {
         <h4 className="text-lg font-semibold text-gray-900 mb-3">💡 Pro Tips for Better Ideas</h4>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm text-gray-700">
           <div>
-            <strong>Be Specific:</strong> Instead of "fitness", try "home workouts for busy moms" or "muscle building for beginners"
+            <strong>Be Specific:</strong> Instead of &quot;fitness&quot;, try &quot;home workouts for busy moms&quot; or &quot;muscle building for beginners&quot;
           </div>
           <div>
             <strong>Think Trends:</strong> Include current events, seasons, or trending topics in your niche

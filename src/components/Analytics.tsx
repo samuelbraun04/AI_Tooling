@@ -181,7 +181,7 @@ export default function Analytics({ onBack }: AnalyticsProps) {
         <h4 className="text-lg font-semibold text-gray-900 mb-4">📊 AI Performance Insights</h4>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div>
-            <h5 className="font-medium text-gray-900 mb-2">🚀 What's Working</h5>
+            <h5 className="font-medium text-gray-900 mb-2">🚀 What&apos;s Working</h5>
             <ul className="text-sm text-gray-700 space-y-1">
               <li>• Question-based hooks increase engagement by 34%</li>
               <li>• Content posted at 6-9 PM gets 2.3x more reach</li>
